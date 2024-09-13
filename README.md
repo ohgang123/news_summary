@@ -10,3 +10,9 @@
 현재는 영어 뉴스만 포함됩니다. (업데이트 예정)
 NewsAPI를 이용해 뉴스의 원문을 링크 형식으로 불러왔고 본문을 추출하고, 왓슨ai의 llama-3-70b-instruct 모델을 이용해 요약하고 번역합니다.
 번역이 안된 본문은 mistralai/mistral-large모델을 이용해 추가 번역합니다.
+
+
+![image](https://github.com/user-attachments/assets/9325968a-a735-404d-800d-642290f5ea7c)
+
+
+![image](https://github.com/user-attachments/assets/9e215a1b-f424-42c5-865e-68134f9ff9d7)
